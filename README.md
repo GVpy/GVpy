@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">🕷️ Olá! Eu sou o Guilherme</h1>
+<p align="center">
+  <img src="https://media1.tenor.com/m/XMWHO2T_wwMAAAAC/ultimate-spider-man-black-suit-ultimate-spider-man.gif" width="200" />
+</p>
 
-<!--
-**GVpy/GVpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋-
+- 🕸️ [Nome do projeto 1](link) — Descrição rápida
+- 🕷️ [Nome do projeto 2](link) — Descrição rápida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/P0nx49dSDnMAAAAj/wakeup.gif" width="100" />
+  <br>
+  <i>“Com grandes poderes, vêm grandes responsabilidades.”</i>
+</p>
