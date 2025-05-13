@@ -5,20 +5,20 @@
 
 ---
 
-### 👋-
-- 🕸️ [Nome do projeto 1](link) — Descrição rápida
-- 🕷️ [Nome do projeto 2](link) — Descrição rápida
+### 👋 Olá! Meu nome é Guilherme
 
----
+🕷️ Comecei no mundo da programação aos 17 anos com Python
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+🎯 Me interesso tanto por **TI** quanto pela área da **Nutrição**
+
+💻 Explorando Python e o mundo do código um commit por vez!
+
+🚀 Sempre aprendendo, testando e criando novos projetos.
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/P0nx49dSDnMAAAAj/wakeup.gif" width="100" />
+  <img src="https://media1.tenor.com/m/h9cJ8io4QNgAAAAd/junio-cade.gif" width="230" />
   <br>
-  <i>“Com grandes poderes, vêm grandes responsabilidades.”</i>
+  <i>É isso.</i>
 </p>
