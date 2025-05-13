@@ -20,5 +20,5 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/h9cJ8io4QNgAAAAd/junio-cade.gif" width="230" />
   <br>
-  <i>É isso.</i>
+  <i>**É isso**.</i>
 </p>
